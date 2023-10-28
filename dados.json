@@ -3,28 +3,28 @@
         "categoria": 40,
         "peso": 7.5,
         "altura": 2,
-        "comprimento": 8,
-        "largura": 2.6
+        "comprimento": 5.2,
+        "largura": 2.1
     },
     "XYZ-5678": {
         "categoria": 40,
         "peso": 10,
         "altura": 2,
         "comprimento": 7,
-        "largura": 3
+        "largura": 2
     },
     "DEF-9876": {
         "categoria": 98,
         "peso": 5,
         "altura": 2.7,
         "comprimento": 5.1,
-        "largura": 2.37
+        "largura": 2.3
     },
     "MNO-4321": {
         "categoria": 84,
-        "peso": 19,
+        "peso": 9,
         "altura": 2.78,
-        "comprimento": 6.59,
+        "comprimento": 3.59,
         "largura": 1.99
     },
     "GHI-6543": {
@@ -32,41 +32,41 @@
         "peso": 15,
         "altura": 3,
         "comprimento": 4.2,
-        "largura": 3
+        "largura": 2.3
     },
     "QRS-7890": {
         "categoria": 22,
         "peso": 5,
         "altura": 2,
-        "comprimento": 10.0,
+        "comprimento": 2.5,
         "largura": 1.78
     },
     "VWX-2109": {
-        "categoria": 80,
-        "peso": 20,
+        "categoria": 92,
+        "peso": 2,
         "altura": 2,
-        "comprimento": 12.0,
-        "largura": 1.8
+        "comprimento": 2.8,
+        "largura": 1.7
     },
     "JKL-8765": {
         "categoria": 40,
         "peso": 5,
         "altura": 2,
-        "comprimento": 9.5,
-        "largura": 3
+        "comprimento": 4.5,
+        "largura": 1.9
     },
     "RST-5432": {
         "categoria": 42,
         "peso": 20,
         "altura": 3.5,
-        "comprimento": 13,
-        "largura": 3
+        "comprimento": 7,
+        "largura": 2.3
     },
     "PQR-1098": {
-        "categoria": 84,
-        "peso": 5,
+        "categoria": 82,
+        "peso": 7,
         "altura": 2,
         "comprimento": 4,
-        "largura": 1.9
+        "largura": 2
     }
 }
